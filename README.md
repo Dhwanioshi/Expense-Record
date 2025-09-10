@@ -1,16 +1,42 @@
-# expense_record
+# Expense-Record
 
-A new Flutter project.
+A simple and efficient Flutter app to track daily expenses, manage budgets, and monitor spending habits with ease.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add, edit, and delete expense records
+- Categorize expenses (e.g., Food, Travel, Utilities)
+- View overall spending and category-wise summaries
+- Clean and user-friendly interface for quick entry
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Screenshots
+
+*(Add your own screenshots for app, transaction list, summary charts, etc.)*
+
+---
+
+##  Tech Stack
+
+- **Frontend:** Flutter / Dart  
+- **Local Storage:** (e.g., Hive, Shared Preferences—if used)  
+- **State Management:** (e.g., Provider, Riverpod, Bloc—if used)
+
+---
+
+##  Getting Started
+
+### Prerequisites
+
+- Flutter SDK ([install guide](https://flutter.dev/docs/get-started/install))
+- An editor or IDE such as VS Code or Android Studio
+
+### Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Dhwanioshi/Expense-Record.git
+   cd Expense-Record
