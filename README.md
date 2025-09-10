@@ -13,17 +13,12 @@ A simple and efficient Flutter app to track daily expenses, manage budgets, and 
 
 ---
 
-##  Screenshots
-
-*(Add your own screenshots for app, transaction list, summary charts, etc.)*
-
----
 
 ##  Tech Stack
 
 - **Frontend:** Flutter / Dart  
-- **Local Storage:** (e.g., Hive, Shared Preferences—if used)  
-- **State Management:** (e.g., Provider, Riverpod, Bloc—if used)
+- **Local Storage:** SQLite
+- **State Management:** Provider, Riverpod
 
 ---
 
